@@ -33,7 +33,16 @@ navbar-links:
     - Epictetus THE PHILOSOPHY OF EPICTETUS: "http://digitalassets.lib.berkeley.edu/main/b20762595_C024325032.pdf"
     - Epictetus DISCORSES OF EPICTETUS: "https://www.stmarys-ca.edu/sites/default/files/attachments/files/Discourses.pdf"
   Links:
+    - List of Stoic Philosophers: "https://en.wikipedia.org/wiki/List_of_Stoic_philosophers"
+    - The Stoic Library: "https://web.archive.org/web/20141225040854/http://www.ibiblio.org/stoicism/"
+    - How to be a stoic: "https://howtobeastoic.wordpress.com"
     - stoics.com: "http://www.stoics.com/books.html"
+    - modernstoicism.com: "http://modernstoicism.com"
+    - stoicism.ca: "https://www.stoicism.ca"
+    - immoderatestoic.com: "https://immoderatestoic.com"
+    - donaldrobertson.name: "http://donaldrobertson.name"
+    - dailystoic.com: "https://dailystoic.com"
+
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar

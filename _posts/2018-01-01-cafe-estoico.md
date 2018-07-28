@@ -2,7 +2,7 @@
 layout: post
 title: Café Estóico
 subtitle: Aprenda Filosofia Estóica pelo Método Socrático Moderno
-bigimg: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Details_of_column_heads_and_roof_of_the_Stoa_of_Attalus_in_Athens%2C_Greece_in_2017.jpg/1280px-Details_of_column_heads_and_roof_of_the_Stoa_of_Attalus_in_Athens%2C_Greece_in_2017.jpg
+bigimg: https://upload.wikimedia.org/wikipedia/commons/2/27/Stoa_of_Attalos%2C_Ancient_Agora%2C_Athens%2C_Greece_%283966275331%29.jpg
 tags: [books, seneca, tranquility, happiness, stoicism, virtue]
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Recursos
 subtitle: Literatura Estóica
-bigimg: /img/path.jpg
+bigimg: /img/Stoa_of_Attalus_in_Athens_Greece_in_2017.jpg
 tags: [books, seneca, tranquility, happiness, stoicism, virtue]
 ---
 

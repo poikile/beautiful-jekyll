@@ -17,7 +17,7 @@ baseurl: ""
 title: poikile
 
 # Short description of your site
-description: Stoic Princicles for Human Development
+description: Philosophy, Nature and Human Development
 
 # --- Navigation bar options --- #
 
@@ -30,12 +30,12 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/mori.png"
+avatar: "/img/1024px-Pax_cultura.svg.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
 # title-img: /path/to/image
-title-img: "/img/mori.png"
+title-img: "/img/1024px-Pax_cultura.svg.png"
 
 # --- Background colour/image options --- #
 
